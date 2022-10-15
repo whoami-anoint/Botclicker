@@ -1,10 +1,12 @@
 ### Botclicker
 
 Requirements:
-1) IDE with python installed
-2) Install pyautogui
+* IDE with python installed
+* Install <strong>pyautogui</strong>
 
 ### Deployment:
 ```
 python3 botclick.py
 ```
+### Usage: 
+Click wherever you get input fuction it will bot your message to the receiver in loop.

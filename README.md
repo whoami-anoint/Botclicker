@@ -9,4 +9,4 @@ Requirements:
 python3 botclick.py
 ```
 ### Usage: 
-Click wherever you get input fuction it will bot your message to the receiver in loop.
+Click wherever you get input function it will bot your message to the receiver in loop.
